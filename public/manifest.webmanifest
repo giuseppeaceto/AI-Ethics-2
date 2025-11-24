@@ -1,0 +1,17 @@
+{
+  "name": "Responsible AI Interview Coach",
+  "short_name": "RAI Coach",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "description": "Practice Responsible AI TPM interview answers for Microsoft on any device.",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
